@@ -1,8 +1,7 @@
 # KHADIJAH ASSAGGAF
 ### GIS Specialist | Remote Sensing & Spatial Analysis
 
-First-Class Honors GIS graduate from King Abdulaziz University.Passionate about leveraging spatial technologies, remote sensing, and web mapping to support informed spatial decision-making.
-
+First-Class Honors GIS graduate from King Abdulaziz University.Skilled in remote sensing, spatial analysis, advanced cartography, and Web GIS applications—passionate about leveraging spatial technologies to support informed spatial decision-making.
 ---
 
 ### Technical Skills & Tools
@@ -12,13 +11,13 @@ First-Class Honors GIS graduate from King Abdulaziz University.Passionate about 
 ---
 
 ### Key Projects
-- **LULC Classification & Change Detection (Graduation Project):** Applied unsupervised classification and spectral indices (NDVI/MNDWI) in ERDAS IMAGINE and ArcGIS Pro to analyze land use changes in Al-Baha (2015–2026).
-- **Hydrological Analysis & Watershed Delineation (Wadi Al-Disah, Tabuk):** Performed hydrological analysis for Wadi Al-Disah in Tabuk using ArcGIS Pro to delineate watershed boundaries and extract stream networks from DEM.
-- **Interactive GIS Dashboard & Spatial Analytics Hub:** Created an interactive ArcGIS Dashboard to display spatial indicators and summary data.
-- **Raster Data Management & 3D Terrain Profile Analysis:** Created a Mosaic Dataset to manage raster imagery and generated elevation profiles in ArcGIS Pro for terrain analysis.
-- **Interactive Web GIS Locator & Spatial Analysis App:** Developed a multi-criteria spatial search and routing web application using ArcGIS Instant Apps.
-- **Arctic Sea Ice Decline & Climate Change Mapping:** Designed a comprehensive cartographic layout to analyze Arctic sea ice trends and climate change impact.
-- **Global Seismicity & Major Earthquakes Mapping:** Produced a thematic map visualizing the 10 largest global earthquakes (2000–2020) and casualty impact using QGIS.
+**LULC Classification & Change Detection** | Unsupervised classification & spectral indices (Al-Baha 2015–2026) using ERDAS IMAGINE | [View Repo]() |
+| **Hydrological Analysis & Watershed Delineation** | Watershed boundary delineation & stream extraction for Wadi Al-Disah using ArcGIS Pro | [View Repo]() |
+| **Interactive GIS Dashboard & Spatial Analytics Hub** | Interactive ArcGIS Dashboard displaying spatial indicators & analytics | [View Repo]() |
+| **Raster Data Management (Jezero Crater Mosaic)** | Structuring Mosaic Datasets to manage planetary satellite imagery in ArcGIS Pro | [View Repo]() |
+| **3D Terrain Visualization & Analysis (Oso Mudslide)** | 3D scene configuration, elevation profiles & landslide spatial visualization | [View Repo]() |
+| **Interactive Web GIS Locator & Spatial Analysis App** | Multi-criteria spatial search & routing application using ArcGIS Instant Apps | [View Repo]() |
+| **Arctic Sea Ice Decline & Climate Change Mapping** | Cartographic layout evaluating Arctic sea ice trends & climate change impact | [View Repo]() |
 
 ---
 
