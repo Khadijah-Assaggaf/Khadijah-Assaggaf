@@ -1,7 +1,7 @@
 # KHADIJAH ASSAGGAF
 ### GIS Specialist | Remote Sensing & Spatial Analysis
 
-First-Class Honors GIS graduate from King Abdulaziz University.Skilled in remote sensing, spatial analysis, advanced cartography, and Web GIS applications—passionate about leveraging spatial technologies to support informed spatial decision-making.
+First-Class Honors GIS graduate from King Abdulaziz University. Skilled in remote sensing, spatial analysis, advanced cartography, and Web GIS applications. passionate about leveraging spatial technologies to support informed spatial decision-making.
 ---
 
 ### Technical Skills & Tools
