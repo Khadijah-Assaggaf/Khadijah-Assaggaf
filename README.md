@@ -11,14 +11,16 @@ First-Class Honors GIS graduate from King Abdulaziz University.Skilled in remote
 ---
 
 ### Key Projects
-- **LULC Classification & Change Detection** | Unsupervised classification & spectral indices (Al-Baha 2015–2026) using ERDAS IMAGINE | [View Repo](https://github.com/Khadijah-Assaggaf/Al-Baha-LULC-Change-Detection) |
-- **Hydrological Analysis & Watershed Delineation** | Watershed boundary delineation & stream extraction for Wadi Al-Disah using ArcGIS Pro | [View Repo](https://github.com/Khadijah-Assaggaf/Wadi-Al-Disah-Hydrological-Analysis) |
-- **Interactive GIS Dashboard & Spatial Analytics Hub** | Interactive ArcGIS Dashboard displaying spatial indicators & analytics | [View Repo](https://github.com/Khadijah-Assaggaf/New-Orleans-Flood-Monitoring-Dashboard) |
-- **Raster Data Management (Jezero Crater Mosaic)** | Structuring Mosaic Datasets to manage planetary satellite imagery in ArcGIS Pro | [View Repo](
+| Project Name| Highlites & Tech sStack | Link |
+| :---: | ---: |---: |
+| **LULC Classification & Change Detection** | Unsupervised classification & spectral indices (Al-Baha 2015–2026) using ERDAS IMAGINE | [View Repo](https://github.com/Khadijah-Assaggaf/Al-Baha-LULC-Change-Detection) |
+| **Hydrological Analysis & Watershed Delineation** | Watershed boundary delineation & stream extraction for Wadi Al-Disah using ArcGIS Pro | [View Repo](https://github.com/Khadijah-Assaggaf/Wadi-Al-Disah-Hydrological-Analysis) |
+| **Interactive GIS Dashboard & Spatial Analytics Hub** | Interactive ArcGIS Dashboard displaying spatial indicators & analytics | [View Repo](https://github.com/Khadijah-Assaggaf/New-Orleans-Flood-Monitoring-Dashboard) |
+| **Raster Data Management (Jezero Crater Mosaic)** | Structuring Mosaic Datasets to manage planetary satellite imagery in ArcGIS Pro | [View Repo](
 https://github.com/Khadijah-Assaggaf/Jezero-Crater-Mosaic-Dataset) |
-- **3D Terrain Visualization & Analysis (Oso Mudslide)** | 3D scene configuration, elevation profiles & landslide spatial visualization | [View Repo](https://github.com/Khadijah-Assaggaf/3D-Terrain-Oso-Mudslide) |
-- **Interactive Web GIS Locator & Spatial Analysis App** | Multi-criteria spatial search & routing application using ArcGIS Instant Apps | [View Repo](https://github.com/Khadijah-Assaggaf/Rails-and-Recreation-Web-GIS-App) |
-- **Arctic Sea Ice Decline & Climate Change Mapping** | Cartographic layout evaluating Arctic sea ice trends & climate change impact | [View Repo](https://github.com/Khadijah-Assaggaf/Arctic-Sea-Ice-Decline-Mapping) |
+| **3D Terrain Visualization & Analysis (Oso Mudslide)** | 3D scene configuration, elevation profiles & landslide spatial visualization | [View Repo](https://github.com/Khadijah-Assaggaf/3D-Terrain-Oso-Mudslide) |
+| **Interactive Web GIS Locator & Spatial Analysis App** | Multi-criteria spatial search & routing application using ArcGIS Instant Apps | [View Repo](https://github.com/Khadijah-Assaggaf/Rails-and-Recreation-Web-GIS-App) |
+| **Arctic Sea Ice Decline & Climate Change Mapping** | Cartographic layout evaluating Arctic sea ice trends & climate change impact | [View Repo](https://github.com/Khadijah-Assaggaf/Arctic-Sea-Ice-Decline-Mapping) |
 
 ---
 
