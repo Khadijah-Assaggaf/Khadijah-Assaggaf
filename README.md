@@ -11,7 +11,7 @@ First-Class Honors GIS graduate from King Abdulaziz University. Skilled in remot
 ---
 
 ### Key Projects
-| Project Name| Highlites & Tech sStack | Link |
+| Project Name| Highlites & Techs Stack | Link |
 | :---: | ---: |---: |
 | **LULC Classification & Change Detection** | Unsupervised classification & spectral indices (Al-Baha 2015–2026) using ERDAS IMAGINE | [View Repo](https://github.com/Khadijah-Assaggaf/Al-Baha-LULC-Change-Detection) |
 | **Hydrological Analysis & Watershed Delineation** | Watershed boundary delineation & stream extraction for Wadi Al-Disah using ArcGIS Pro | [View Repo](https://github.com/Khadijah-Assaggaf/Wadi-Al-Disah-Hydrological-Analysis) |
