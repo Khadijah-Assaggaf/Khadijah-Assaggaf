@@ -1,13 +1,10 @@
 # KHADIJAH ASSAGGAF
 ### GIS Specialist | Remote Sensing & Spatial Analysis
 
-First-Class Honors GIS graduate from King Abdulaziz University. Skilled in remote sensing, spatial analysis, advanced cartography, and Web GIS applications. passionate about leveraging spatial technologies to support informed spatial decision-making.
 ---
 
-### Technical Skills & Tools
-- **GIS & Remote Sensing:** ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, Web GIS Applications, QGIS, ERDAS IMAGINE, Spatial Analysis & Modeling, Hydrological & Surface Analysis, Remote Sensing & Spectral Indices.
-- **Data & Analytics:** ArcGIS Dashboards, Excel, Data Visualization.
-
+### Skills 
+- `ArcGIS Pro` `QGIS` `ERDAS IMAGINE` `Spatial Analysis` `Web GIS` `Remote Sensing`
 ---
 
 ### Key Projects
@@ -25,7 +22,7 @@ First-Class Honors GIS graduate from King Abdulaziz University. Skilled in remot
 
 ### Connect with Me
 - **Email:** Khassaggaf@gmail.com
-- **LinkedIn:** [Insert LinkedIn Profile URL Here]
+- **LinkedIn:**
 
 <!--
 **Khadijah-Assaggaf/Khadijah-Assaggaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
