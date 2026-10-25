@@ -22,7 +22,9 @@
 
 ### Connect with Me
 - **Email:** Khassaggaf@gmail.com
-- **LinkedIn:**
+- **LinkedIn:** [Khadijah Assaggaf](https://www.linkedin.com/in/khadijah-assaggaf-a73684446)
+
+
 
 <!--
 **Khadijah-Assaggaf/Khadijah-Assaggaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
